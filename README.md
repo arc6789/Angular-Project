@@ -14,7 +14,7 @@ Node/npm needs to be installed before following any directions below.
 
 To set this project up and get it running in your browser you will need a local server. Run these commands:
 
-* `npm init`
+* `npm install`
 * `npm install http-server -g`
 * `http-server` 
 
